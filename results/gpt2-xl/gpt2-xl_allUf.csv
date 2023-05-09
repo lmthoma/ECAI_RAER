@@ -1,0 +1,6 @@
+,prime AAB,prime ABA,prime ABB,prime ABCa,prime ABCb
+AAB Pattern Outputs,761.0,183.0,244.0,0.0,1.0
+ABA Pattern Outputs,31.0,302.0,94.0,1.0,0.0
+ABB Pattern Outputs,8.0,28.0,238.0,4.0,7.0
+ABC Pattern Outputs,164.0,471.0,405.0,992.0,990.0
+Other Outputs,29.0,3.0,6.0,0.0,0.0
